@@ -1,3 +1,4 @@
+// deno-lint-ignore-file
 import TokenType from './TokenType.ts';
 
 export default class Token {
